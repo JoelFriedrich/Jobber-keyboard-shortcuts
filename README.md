@@ -1,6 +1,6 @@
 # Jobber Shortcuts
 
-A Chrome extension that brings keyboard shortcuts to [Jobber](https://getjobber.com) — so you can save records, navigate the schedule, and create clients without reaching for your mouse.
+A Chrome extension that brings keyboard shortcuts to [Jobber](https://getjobber.com) — so you can save records, navigate the schedule, and create clients without reaching for your mouse. Made for powerusers.
 
 ![Jobber Shortcuts popup](screenshots/popup.png)
 
